@@ -1,3 +1,14 @@
+# TODO
+## Ideas
+1. Pull information about games developers and producers
+    1.
+2. Add DBT and use it to a build a wide table containing all the information
+2.
+2.
+
+
+
+
 # game_pipeline_dagster
 
 This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster project scaffold`](https://docs.dagster.io/getting-started/create-new-project).
